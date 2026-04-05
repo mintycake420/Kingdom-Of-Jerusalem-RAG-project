@@ -27,7 +27,7 @@ A Retrieval-Augmented Generation (RAG) application for researching the **Kingdom
 
 ```bash
 # Clone and enter directory
-git clone https://github.com/yourusername/jerusalem_rag.git
+git clone https://github.com/mintycake420/jerusalem_rag.git
 cd jerusalem_rag
 
 # Create virtual environment
