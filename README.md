@@ -191,3 +191,5 @@ MIT
 - **Gallica (BnF)** for manuscript access
 - **Wikipedia** for encyclopedic content
 - Historical scholars who created the *Recueil des historiens des croisades*
+
+![Screenshot example](https://i.postimg.cc/LXSh4WCL/Example-Screenshot.png))
